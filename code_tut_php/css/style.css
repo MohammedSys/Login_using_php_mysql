@@ -9,8 +9,8 @@ body {
 .form {
     position:relative;
     display:inline-block;
-    margin: 20%;
-    padding: 5%;
+    margin-left: 450px;
+    padding: 100px;
     text-align: center;
 }
 /*------End div-form Style-------*/
@@ -20,5 +20,6 @@ input {
    display: block;
    padding: 5px;
    margin:10px;
+   border-radius: 1px;
 }
 /*------End input Style-------*/
