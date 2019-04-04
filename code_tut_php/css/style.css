@@ -1,0 +1,24 @@
+/*------Start Body Style------*/
+body {
+    padding: 0px;
+    margin: 0px;
+}
+/*------End Body Style-------*/
+
+/*------Start div-form Style------*/
+.form {
+    position:relative;
+    display:inline-block;
+    margin: 20%;
+    padding: 5%;
+    text-align: center;
+}
+/*------End div-form Style-------*/
+
+/*------Start input Style------*/
+input {
+   display: block;
+   padding: 5px;
+   margin:10px;
+}
+/*------End input Style-------*/
